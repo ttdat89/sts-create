@@ -26,7 +26,7 @@ if (!commandExists('git')){
 
 shell.exec('git clone git@github.com:stssoftware/react-redux-app.git ' + projectName)
 shell.cd(projectName)
-shell.rm('-rf', projectName + '/.git')
+shell.rm('-rf', '.git')
 if (!commandExists('yarn')){
 	log(chalk.yellow('[warn] You can install yarn (https://yarnpkg.com) to make this process faster'))
 	shell.exec('npm install')
@@ -40,3 +40,4 @@ log('')
 log('You can run these commands to start project:')
 log('  $ cd '+projectName)
 log('  $ npm start')
+log('')
