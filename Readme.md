@@ -3,7 +3,7 @@
 This CLI tool helps create front-end app for STS Software
 
 ## Prerequisite
-Your machine must has:
+Your machine must have:
 * NodeJS
 * Git
 
