@@ -4,9 +4,7 @@ var commandExists = require('command-exists').sync;
 const chalk = require('chalk');
 const log = console.log;
 var fs = require('fs');
-
 const projectName = process.argv[2]
-
 if (!projectName){
 	log('Please input project name: sts-create react-app [project-name]')
 	log('For example:')
