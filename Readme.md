@@ -14,3 +14,13 @@ Your machine must have:
 * Run `sts-create -h` to show help
 * Run `sts-create react-app [project-name]`: Generate a React project.
 * Run `sts-create react-native-app [project-name]`: Generate a React Native project.
+
+## What is in React project?
+* React (created by create-react-app)
+* Redux
+* Redux devtools, for Chrome user, install this extension: [https://github.com/zalmoxisus/redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
+
+## What is in React Native project?
+* React Native
+* Redux
+* Redux Observables
