@@ -13,4 +13,4 @@ Your machine must have:
 ## Usage
 * Run `sts-create -h` to show help
 * Run `sts-create react-app [project-name]`: Generate a React project.
-* Run `sts-create react-native-app [project-name]`: Generate a React Native project (comming soon).
+* Run `sts-create react-native-app [project-name]`: Generate a React Native project.
