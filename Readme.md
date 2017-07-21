@@ -12,8 +12,8 @@ Your machine must have:
 
 ## Usage
 * Run `sts-create -h` to show help
-* Run `sts-create react-app [project-name]`: Generate a React project and follow this guide [https://github.com/ttdat89/react-native-redux-rxjs-template/blob/master/README.md](here)
-* Run `sts-create react-native-app [project-name]`: Generate a React Native project.
+* Run `sts-create react-app [project-name]`: Generate a React project.
+* Run `sts-create react-native-app [project-name]`: Generate a React Native project and follow this guide [https://github.com/ttdat89/react-native-redux-rxjs-template/blob/master/README.md](here)
 
 ## What is in React project?
 * React (created by create-react-app)
